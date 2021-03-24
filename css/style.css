@@ -1,0 +1,27 @@
+.title{
+    margin-top: 50px;
+    text-align: center;
+}
+.discription{
+    text-align: center;
+}
+.titleborder{
+    height: 3px;
+    width: 70px;
+    background-image: linear-gradient(to right,tomato,black, tomato);
+    margin-left: 48%;
+    margin-bottom: 20px;
+}
+
+.education-image{
+    margin-left: 130px;
+    height: 90px;
+    width: 90px;
+    padding:15px;
+}
+.education-title{
+    text-align: center;
+}
+.education-discription{
+    text-align: center;
+}
